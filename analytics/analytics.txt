@@ -1,0 +1,15 @@
+1).There are 49 songs in the playlist2) +---------------------------------------------+------------+
+|                    track                    | popularity |
++---------------------------------------------+------------+
+|    Way 2 Sexy (with Future & Young Thug)    |     92     |
++---------------------------------------------+------------+
+| Knife Talk (with 21 Savage ft. Project Pat) |     91     |
++---------------------------------------------+------------+
+|       Fair Trade (with Travis Scott)        |     90     |
++---------------------------------------------+------------+
+|      Girls Want Girls (with Lil Baby)       |     88     |
++---------------------------------------------+------------+
+|                 Praise God                  |     87     |
++---------------------------------------------+------------+
+ 
+3) range brothers (with Kendrick Lamar) is the longest track with a duration of 316733 ms
